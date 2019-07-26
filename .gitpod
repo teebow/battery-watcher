@@ -1,0 +1,7 @@
+checkoutLocation: src/github.com/teebow/battery-watcher
+workspaceLocation: /
+image:
+  file: Dockerfile
+ports:
+  - port: 6080
+    protocol: "http"
